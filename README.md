@@ -4,9 +4,9 @@
   This project will be stressful, demanding, and tough. We do this to pursue our individual goals, but let’s come together with a single shared aim: to be a fucking GREAT—Generous, Rich, Effective, Ambitious, and Healthy—person.
 </h3>
 
-<h4 align="center">
+<h3 align="left">
   Let’s stay sharp and committed to executing our plans flawlessly. Your effort and determination are the driving force behind our success. Together, we’ll bring our vision into reality. Let’s do this!
-</h4>
+</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
