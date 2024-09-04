@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center" style="font-size: 24px; font-weight: bold;">
-  **************************************************
+  *************************************************************************************
 </p>
 
 <h4 align="center">
@@ -13,10 +13,9 @@
 </h4>
 
 <p align="center" style="font-size: 24px; font-weight: bold;">
-  **************************************************
+  *************************************************************************************
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
+ 
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="padding: 0 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
