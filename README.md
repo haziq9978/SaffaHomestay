@@ -1,9 +1,11 @@
 <h1 align="center">Hi, ADWA TECH TEAM</h1>
 
 <h3 align="center">
-  This project will be stressful, demanding, and tough. We do this to pursue our individual goals, but let’s come together with a single shared aim: to be a fucking GREAT (Generous, Rich, Effective, Ambitious, and Healthy) person.
+  This project will be stressful, demanding, and tough. We do this to pursue our individual goals, but let’s come together with a single shared aim: to be a <strong><u>fucking GREAT PERSON</u></strong>  
 </h3>
-
+<p align="center">
+  (Generous, Rich, Effective, Ambitious, and Healthy)
+</p>
 <p align="center" style="font-size: 24px; font-weight: bold;">
   ------------------------------------------------------------------------------
 </p>
@@ -15,7 +17,7 @@
 <p align="center" style="font-size: 24px; font-weight: bold;">
   ------------------------------------------------------------------------------
 </p>
- 
+
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="padding: 0 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
