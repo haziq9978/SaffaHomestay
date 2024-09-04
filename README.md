@@ -1,7 +1,7 @@
 <h1 align="center">Hi, ADWA TECH TEAM</h1>
 
 <h3 align="center">
-  This project will be stressful, demanding, and tough. We do this to pursue our individual goals, but let’s come together with a single shared aim: to be a fucking GREAT—Generous, Rich, Effective, Ambitious, and Healthy—person.
+  This project will be stressful, demanding, and tough. We do this to pursue our individual goals, but let’s come together with a single shared aim: to be a fucking GREAT (Generous, Rich, Effective, Ambitious, and Healthy) person.
 </h3>
 
 <p align="center" style="font-size: 24px; font-weight: bold;">
